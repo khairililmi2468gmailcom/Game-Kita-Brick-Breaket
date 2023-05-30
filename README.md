@@ -22,7 +22,7 @@ Persyaratan Sistem
 
     Sistem operasi: Android
 Instalasi
-    - Download Apk : 
+    - Download Apk : <a href="https://drive.google.com/file/d/1TSvgvFHOo7NXqErxkSAoUOa1O4rVtE2b/view?usp=sharing">di sini</a>
     - Matikan google protect di play store.(klik icon di play store, masuk ke google protect)
     - Install Apk
     - Mainkan Apk
