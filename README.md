@@ -1,8 +1,9 @@
 <h1>Kita Brick Breaker Game</h1>
 
-
-
 Kita Brick Breaker adalah permainan klasik yang menguji keterampilan dan refleks Anda. Dalam game ini, Anda memiliki sebuah platform yang dapat digerakkan secara horizontal di bagian bawah layar. Tujuan Anda adalah menghancurkan semua batu bata yang ada di atas layar dengan menggunakan bola yang terpantul dari platform.
+<br>
+    <img src"game.png" alt="game"/>
+<br>
 
 Fitur utama:
     Power-up yang dapat membantu Anda dalam menghancurkan batu bata lebih cepat.
