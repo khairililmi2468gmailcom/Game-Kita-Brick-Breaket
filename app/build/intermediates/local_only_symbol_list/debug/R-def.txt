@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ball
+drawable cup
+drawable exit
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable paddle
+drawable play
+drawable play2
+drawable restart
+id ivNewHeighest
+id tvPoints
+layout activity_main
+layout game_over
+mipmap brick
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+raw breaking
+raw breaking2
+raw hit
+raw miss
+string app_name
+style Base.Theme.BrickBreaket
+style Theme.AppCompat.Light.NoActionBar.FullScreen
+style Theme.BrickBreaket
+xml backup_rules
+xml data_extraction_rules

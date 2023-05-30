@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/drawable_play.png.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/drawable/play.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/drawable_play2.png.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/drawable/play2.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/layout_game_over.xml.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/layout/game_over.xml"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/drawable_restart.png.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/drawable/restart.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/raw_breaking.wav.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/raw/breaking.wav"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/drawable_paddle.png.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/drawable/paddle.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/drawable_exit.png.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/drawable/exit.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-anydpi-v26_brick.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-anydpi-v26/brick.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/raw_breaking2.wav.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/raw/breaking2.wav"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.brickbreaket.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/raw_hit.wav.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/raw/hit.wav"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/drawable_ball.png.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/drawable/ball.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/raw_miss.wav.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/raw/miss.wav"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/drawable_cup.png.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/drawable/cup.png"
+    },
+    {
+        "merged": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "/home/kita/.gradle/daemon/8.0/com.example.brickbreaket.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.brickbreaket.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.brickbreaket.app-main-30:/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

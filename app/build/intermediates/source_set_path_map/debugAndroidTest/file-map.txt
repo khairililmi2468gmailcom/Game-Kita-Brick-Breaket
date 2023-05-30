@@ -1,0 +1,6 @@
+com.example.brickbreaket.test.app-annotation-experimental-1.3.0-0 /home/kita/.gradle/caches/transforms-3/4f735b77350aefc156737b8f9bd0fa95/transformed/annotation-experimental-1.3.0/res
+com.example.brickbreaket.test.app-core-1.5.0-1 /home/kita/.gradle/caches/transforms-3/7df3ea80e358b7c626734a27a40524e6/transformed/core-1.5.0/res
+com.example.brickbreaket.test.app-androidTest-2 /home/kita/Documents/projek/BrickBreaket/app/build/generated/res/resValues/androidTest/debug
+com.example.brickbreaket.test.app-mergeDebugAndroidTestResources-3 /home/kita/Documents/projek/BrickBreaket/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.brickbreaket.test.app-mergeDebugAndroidTestResources-4 /home/kita/Documents/projek/BrickBreaket/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.brickbreaket.test.app-merged_res-5 /home/kita/Documents/projek/BrickBreaket/app/build/intermediates/merged_res/debugAndroidTest
